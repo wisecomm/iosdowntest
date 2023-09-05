@@ -1,0 +1,18 @@
+
+# APP 업그레이드 절자
+
+확인 : 서버 변경이 있으면 서버 적용 확인 후 업그레이드 진행
+
+안드로이드 : 
+1. 기존 ssgdx-mdm-dev-release.apk 이름 변경 ssgdx-mdm-dev-release-1.0.0.apk
+2. 새로 빌드한 apk 복사 (ssgdx-mdm-dev-release.apk)
+
+아이폰 : 
+1. 기존 ssgdx-mdm-dev-release.ipa 이름 변경 ssgdx-mdm-dev-release-1.0.0.ipa
+2. 새로 빌드한 apk ipa (ssgdx-mdm-dev-release.ipa)
+
+버전 DB 필드 변경 :
+1. 안드로이드 버전 디비 필드 변경
+2. 아이폰 버전 디비 필드 변경
+
+
