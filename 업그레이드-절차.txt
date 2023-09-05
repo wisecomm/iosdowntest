@@ -1,18 +1,32 @@
 
-# APP 업그레이드 절자
+##################################################
+# APP 업그레이드 절차
+##################################################
 
 확인 : 서버 변경이 있으면 서버 적용 확인 후 업그레이드 진행
 
 안드로이드 : 
-1. 기존 ssgdx-mdm-dev-release.apk 이름 변경 ssgdx-mdm-dev-release-1.0.0.apk
-2. 새로 빌드한 apk 복사 (ssgdx-mdm-dev-release.apk)
+1. 기존 ssgdx-mdm-dev.apk 이름 변경 ssgdx-mdm-dev-1.0.0.apk
+2. 새로 빌드한 apk 복사 (ssgdx-mdm-dev.apk)
 
 아이폰 : 
-1. 기존 ssgdx-mdm-dev-release.ipa 이름 변경 ssgdx-mdm-dev-release-1.0.0.ipa
-2. 새로 빌드한 apk ipa (ssgdx-mdm-dev-release.ipa)
+1. 기존 ssgdx-mdm-dev.ipa 이름 변경 ssgdx-mdm-dev-1.0.0.ipa
+2. 새로 빌드한 apk ipa (ssgdx-mdm-dev.ipa)
 
 버전 DB 필드 변경 :
 1. 안드로이드 버전 디비 필드 변경
 2. 아이폰 버전 디비 필드 변경
 
 
+
+##################################################
+# APP 만들기
+##################################################
+- apk 만들기(Android Studio) : Build -- Generate Signed Bundle -- APK 선택 Next 
+  key sotre 패스워드 입력 후 Next -- release 선택 후 Create   
+
+- ipa 만들기(xcode) : Product -- Archive 클릭 후 기다림  -- Distribute App 선택 
+  -- Enterprise 선택 Next --  None, Include 채크 Next 
+  -- App Url 추가 (https://example.com/ssgdx-mdm-dev.ipa), 이미지 : https://example.com/ssgdx-mdm-dev.png
+  -- Auto manage signing 후 Next -- Export -- 디렉토리에서 ssgdx-mdm-dev.ipa 만 사용
+  
