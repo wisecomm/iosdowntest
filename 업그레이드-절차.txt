@@ -6,11 +6,11 @@
 확인 : 서버 변경이 있으면 서버 적용 확인 후 업그레이드 진행
 
 안드로이드 : 
-1. 기존 ssgdx-mdm-dev.apk 이름 변경 ssgdx-mdm-dev-1.0.0.apk
+1. 기존 ssgdx-mdm-dev.apk 이름 변경(백업 : ssgdx-mdm-dev-1.0.0.apk)
 2. 새로 빌드한 apk 복사 (ssgdx-mdm-dev.apk)
 
 아이폰 : 
-1. 기존 ssgdx-mdm-dev.ipa 이름 변경 ssgdx-mdm-dev-1.0.0.ipa
+1. 기존 ssgdx-mdm-dev.ipa 이름 변경 (백업 : ssgdx-mdm-dev-1.0.0.ipa)
 2. 새로 빌드한 apk ipa (ssgdx-mdm-dev.ipa)
 
 버전 DB 필드 변경 :
