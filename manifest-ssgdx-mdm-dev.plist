@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://wisecomm.github.io/iosdowntest/androidlogo.png</string>
+					<string>https://wisecomm.github.io/iosdowntest/1024.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://wisecomm.github.io/iosdowntest/androidlogo.png</string>
+					<string>https://wisecomm.github.io/iosdowntest/1024.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
