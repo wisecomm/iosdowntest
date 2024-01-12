@@ -23,9 +23,9 @@
                     <key>kind</key>
                     <string>software</string>
                     <key>platform-identifier</key>
-                    <string>com.apple.platform.inphoneos</string>
+                    <string>com.apple.platform.iphoneos</string>
                     <key>title</key>
-                    <string>통합운영</string>
+                    <string>1</string>
                 </dict>
            </dict>
        </array>
