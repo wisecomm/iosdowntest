@@ -29,7 +29,7 @@
                 </array>
                 <key>metadata</key>
                 <dict>
-                    <key>bundle-indentifier</key>
+                    <key>bundle-identifier</key>
                     <string>com.shinsegae.mdm.ssgdx</string>
                     <key>bundle-version</key>
                     <string>1.0.0</string>
