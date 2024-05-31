@@ -1,0 +1,27 @@
+✘ danyoh-mac@danyoh-MacBookPro  ~/XXX-Nexacro/appshin/ssgdx-ppm-ios   develop ±  pod update
+Update all pods
+Updating local specs repositories
+Analyzing dependencies
+Downloading dependencies
+Installing FirebaseAnalytics 10.27.0 (was 10.21.0)
+Installing FirebaseCore 10.27.0 (was 10.21.0)
+Installing FirebaseCoreExtension 10.27.0 (was 10.21.0)
+Installing FirebaseCoreInternal 10.27.0 (was 10.21.0)
+Installing FirebaseCrashlytics 10.27.0 (was 10.21.0)
+Installing FirebaseInstallations 10.27.0 (was 10.21.0)
+Installing FirebaseMessaging 10.27.0 (was 10.21.0)
+Installing FirebaseRemoteConfigInterop (10.27.0)
+Installing FirebaseSessions 10.27.0 (was 10.21.0)
+Installing GoogleAppMeasurement 10.27.0 (was 10.21.0)
+Installing GoogleDataTransport 9.4.1 (was 9.3.0)
+Installing GoogleUtilities 7.13.3 (was 7.12.0)
+Installing PromisesObjC 2.4.0 (was 2.3.1)
+Installing PromisesSwift 2.4.0 (was 2.3.1)
+Installing nanopb 2.30910.0 (was 2.30909.1)
+Generating Pods project
+Integrating client project
+Pod installation complete! There are 4 dependencies from the Podfile and 15 total pods installed.
+
+[!] Automatically assigning platform `iOS` with version `16.0` on target `ssgdx-ppm-dev` because no platform was specified. Please specify a platform for this target in your Podfile. See `https://guides.cocoapods.org/syntax/podfile.html#platform`.
+
+
