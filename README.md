@@ -4,7 +4,7 @@
 
 # xcode 버전업
 - 프젝트 - 타겟 - Marketing Version 변경 : 1.0.0
-2
+
 # 아이폰 업그레이드
 - 업데이터 버전 변경 : Project - TARGETS - Build Settings - Versioning - Marketing Version - 1.0.0 변경 
 - Product - Archive 만들기 
