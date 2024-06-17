@@ -1,5 +1,5 @@
 # iosdowntest
-ddd
+ddd 11
 # manifest.plist : software-package 에 다운로드 파일 이름 수정
 
 # xcode 버전업
